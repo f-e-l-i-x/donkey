@@ -31,7 +31,7 @@ yellow center line. The Oakland track is about 70 feet around the center line. K
 Yes. It's all python so you can run it on any system. Usually the hard part of porting Donkey will be getting the hardware working.
 Here are a couple systems that people have tried or talked about.
 
-* NVIDA TX2 - This was implemented with a webcam and used a teensy to controll the motor/servos.
+* NVIDA TX2 - This was implemented with a webcam and used a teensy to control the motor/servos.
 * Pi-Zero - Untested but people have gotten OpenCV and Tensorflow installed so it seems possible.
 
 
